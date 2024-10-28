@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+clio
+*.tmp
+.idea/
+certs/
+
+# CLion project files
+cmake-build-*
