@@ -10,3 +10,4 @@ add_executable(1_namespace 4_namespace.cpp)
 add_executable(1_typedef 5_typedef.cpp)
 
 add_executable(1_userinput 6_userinput.cpp)
+add_executable(1_hypotenuse 7_hypotenuse.cpp)
