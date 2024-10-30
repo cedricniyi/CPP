@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(2_calculator 8_calculator.cpp)
 add_executable(2_tempc 9_tempc.cpp)
+add_executable(2_pseudorandom 10_pseudorandom.cpp)
+add_executable(2_randomevent 11_randomevent.cpp)
